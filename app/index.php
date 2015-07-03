@@ -33,5 +33,8 @@
  * Orangescrum" logo. If the display of the logo is not reasonably feasible for
  * technical reasons, the Appropriate Legal Notices must display the words
  * "Powered by Orangescrum".
+ abcdefghijklmnopqrstuvwxyz
+ dsfhdhhdslkdfds
+ dsfmjndnshfhudifhdfvdlnkjg
  ********************************************************************************/
 require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';
